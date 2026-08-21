@@ -1,0 +1,6 @@
+{
+  "name": "HSK 6 Sinonim Master",
+  "description": "Aplikasi interaktif pembeda dan hafalan kosakata sinonim HSK 6 dengan mode kontras, kuis rumpang kolokasi, flashcard spaced repetition Leitner, dan pelacak progres harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
